@@ -1,0 +1,8 @@
+//TABS
+itemGroup.shearstab=Extra Shears
+
+//TOOLS
+item.wooden_shears.name=Wooden Shears
+item.stone_shears.name=Stone Shears
+item.diamond_shears.name=Diamond Shears
+item.golden_shears.name=Golden Shears

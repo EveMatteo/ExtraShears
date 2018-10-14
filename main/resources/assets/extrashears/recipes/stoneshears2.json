@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I",
+        "I "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:stone",
+            "data": 32767
+        }
+    },
+    
+    "result":
+    {
+        "item": "extrashears:stone_shears",
+        "count": 1
+    }
+}
